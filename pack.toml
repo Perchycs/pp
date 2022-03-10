@@ -1,0 +1,13 @@
+name = "Fabric UpToDate"
+author = "Perchy"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c06adc50cccbfc4a672c74c33ee35d871144c18994a3f0f3646c6cd4c17a8580"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"
